@@ -27,5 +27,8 @@
 
 .taka{
     text-align: center;
-    
+    margin: 10px;
+    text-decoration:underline;
+    font-size: medium;
+    padding: 30px 50px;
 }
