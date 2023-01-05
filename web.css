@@ -1,0 +1,14 @@
+.first-title{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: solid white;
+    background-image: url("images/donation0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.first-d{
+    color: orange;
+    padding: 20px;
+    font-size: 20px;
+    background-color: blue;
+}
