@@ -28,7 +28,17 @@
 .taka{
     text-align: center;
     margin: 10px;
-    text-decoration:underline;
-    font-size: medium;
+    font-size: large;
     padding: 30px 50px;
+
+}
+
+#boss{
+    color: orangered;
+}
+ 
+
+.football{
+    text-align: center;
+    font-size: 30px;
 }
