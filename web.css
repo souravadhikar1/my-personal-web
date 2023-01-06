@@ -83,13 +83,13 @@ font-size: 30px;
     width: 300px;
     height:400px;
     margin-left: 30px;
-    align-content: center;
+    
     margin-left:10px
 }
 .fox{
 
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 #button-sub{
@@ -101,4 +101,23 @@ font-size: 30px;
 }
 #button-sub3{
 background: rgba(171, 234, 225, 0.927)
+}
+
+.about{
+padding: 30px;
+
+
+}
+
+.nal{
+    font-size: 50px;
+    margin-right: 900px;
+}
+    
+
+.pic{
+width: 456px;
+height: 477px;
+padding: 100px;
+
 }
