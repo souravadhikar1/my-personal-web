@@ -41,7 +41,8 @@ display: flex;
 }
 
 .out{
-    font-size: 30px
+    margin-bottom: 0px;
+    font-size: 30px;
 }
 
 .ragbi{
@@ -53,4 +54,23 @@ border-radius: 10px;
 .now{
     font-size: large;
     color: white;
+}
+
+.cricket{
+    font-size: 80px;
+}
+#help{
+    text-align: center;
+    display: flex;
+    color: greenyellow;
+}
+
+.novel{
+    display: flex;
+    
+}
+
+.bot{
+    padding: 10px 25px;
+font-size: 30px;
 }
