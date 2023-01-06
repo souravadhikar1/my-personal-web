@@ -19,17 +19,14 @@
     background-color: aquamarine;
 }
 .take{
-    text-align: center;
-    color: blueviolet;
-    font-weight: 700;
-    font-size: 2opx;
+display: flex;
 }
 
 .taka{
     text-align: center;
     margin: 10px;
     font-size: large;
-    padding: 30px 50px;
+    padding: 30px 50px;  
 
 }
 
@@ -41,4 +38,19 @@
 .football{
     text-align: center;
     font-size: 30px;
+}
+
+.out{
+    font-size: 30px
+}
+
+.ragbi{
+background-color: orangered;
+margin: 10px;
+padding: 10px 25px;
+border-radius: 10px;
+}
+.now{
+    font-size: large;
+    color: white;
 }
