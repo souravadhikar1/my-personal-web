@@ -3,6 +3,9 @@
     font-size: 30px;
     text-decoration: solid white;
     background-image: url("images/donation0.jpg");
+   
+
+
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -73,4 +76,29 @@ border-radius: 10px;
 .bot{
     padding: 10px 25px;
 font-size: 30px;
+}
+
+.button{
+    
+    width: 300px;
+    height:400px;
+    margin-left: 30px;
+    align-content: center;
+    margin-left:10px
+}
+.fox{
+
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#button-sub{
+    background: rgba(79, 157, 166, 0.1);
+
+}
+#button-sub2{
+    background: rgba(255, 89, 89, 0.1);
+}
+#button-sub3{
+background: rgba(171, 234, 225, 0.927)
 }
